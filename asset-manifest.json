@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//Mohamad-bader-eddin.github.io/Website/static/css/main.6709557b.css",
+    "main.js": "/http//Mohamad-bader-eddin.github.io/Website/static/js/main.16ea063c.js",
+    "index.html": "/http//Mohamad-bader-eddin.github.io/Website/index.html",
+    "main.6709557b.css.map": "/http//Mohamad-bader-eddin.github.io/Website/static/css/main.6709557b.css.map",
+    "main.16ea063c.js.map": "/http//Mohamad-bader-eddin.github.io/Website/static/js/main.16ea063c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6709557b.css",
+    "static/js/main.16ea063c.js"
+  ]
+}
